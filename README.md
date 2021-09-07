@@ -104,6 +104,7 @@ memory[14] <= 32'h00000000;//$t6
 memory[15] <= 32'h00000000;//$t7
 
 Simulation Results:
+![image](image.png)
 
 
 Results Explained:
